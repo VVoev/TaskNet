@@ -1,0 +1,1 @@
+E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\App.exe.config
