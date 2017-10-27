@@ -1,0 +1,7 @@
+E:\AllocateTaskNet\AlocateTaskExecution\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\AllocateTaskNet\AlocateTaskExecution\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\AllocateTaskNet\AlocateTaskExecution\ClassLibrary1\bin\Debug\OldMackDonald.Data.Models.dll
+E:\AllocateTaskNet\AlocateTaskExecution\ClassLibrary1\bin\Debug\OldMackDonald.Data.Models.pdb
+E:\AllocateTaskNet\AlocateTaskExecution\ClassLibrary1\obj\Debug\Core.csprojResolveAssemblyReference.cache
+E:\AllocateTaskNet\AlocateTaskExecution\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\AllocateTaskNet\AlocateTaskExecution\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

@@ -8,7 +8,7 @@ using OldMackDonald.Data.Models.Enums;
 
 namespace OldMackDonald.Data.Models.Models
 {
-    class Tiger : Animal
+    public class Tiger : Animal
     {
         public override string AnimalName
         {
@@ -22,7 +22,7 @@ namespace OldMackDonald.Data.Models.Models
         {
             get
             {
-                return "YAaaaaaaaaaauuw";
+                return "Yauw";
             }
         }
 
@@ -36,7 +36,11 @@ namespace OldMackDonald.Data.Models.Models
 
         protected override string AnimalNameAndSound()
         {
-            return $"i am {this.AnimalName} and i can make {this.AnimalSound}";
+            return
+              this.Verse
+                  .Replace("@animal", this.AnimalName)
+                  .Replace("@sound", this.AnimalSound)
+                  .ToString();
         }
     }
 }

@@ -1,0 +1,11 @@
+E:\AllocateTaskNet\AlocateTaskExecution\ContainerConfiguration\bin\Debug\ContainerConfiguration.dll
+E:\AllocateTaskNet\AlocateTaskExecution\ContainerConfiguration\bin\Debug\ContainerConfiguration.pdb
+E:\AllocateTaskNet\AlocateTaskExecution\ContainerConfiguration\bin\Debug\ClassLibrary1.dll
+E:\AllocateTaskNet\AlocateTaskExecution\ContainerConfiguration\bin\Debug\Ninject.dll
+E:\AllocateTaskNet\AlocateTaskExecution\ContainerConfiguration\bin\Debug\OldMackDonald.Data.Models.dll
+E:\AllocateTaskNet\AlocateTaskExecution\ContainerConfiguration\bin\Debug\ClassLibrary1.pdb
+E:\AllocateTaskNet\AlocateTaskExecution\ContainerConfiguration\bin\Debug\OldMackDonald.Data.Models.pdb
+E:\AllocateTaskNet\AlocateTaskExecution\ContainerConfiguration\bin\Debug\Ninject.xml
+E:\AllocateTaskNet\AlocateTaskExecution\ContainerConfiguration\obj\Debug\ContainerConfiguration.csprojResolveAssemblyReference.cache
+E:\AllocateTaskNet\AlocateTaskExecution\ContainerConfiguration\obj\Debug\ContainerConfiguration.dll
+E:\AllocateTaskNet\AlocateTaskExecution\ContainerConfiguration\obj\Debug\ContainerConfiguration.pdb

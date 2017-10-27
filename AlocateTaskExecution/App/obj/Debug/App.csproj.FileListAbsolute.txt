@@ -1,1 +1,14 @@
 E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\App.exe.config
+E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\App.exe
+E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\App.pdb
+E:\AllocateTaskNet\AlocateTaskExecution\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+E:\AllocateTaskNet\AlocateTaskExecution\App\obj\Debug\App.exe
+E:\AllocateTaskNet\AlocateTaskExecution\App\obj\Debug\App.pdb
+E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\ContainerConfiguration.dll
+E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\Ninject.dll
+E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\ClassLibrary1.dll
+E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\OldMackDonald.Data.Models.dll
+E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\ContainerConfiguration.pdb
+E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\Ninject.xml
+E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\ClassLibrary1.pdb
+E:\AllocateTaskNet\AlocateTaskExecution\App\bin\Debug\OldMackDonald.Data.Models.pdb

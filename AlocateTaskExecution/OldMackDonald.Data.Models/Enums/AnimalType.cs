@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OldMackDonald.Data.Models.Enums
+﻿namespace OldMackDonald.Data.Models.Enums
 {
-    class AnimalType
+    public enum AnimalType
     {
+        Cat = 0,
+        Dog = 1,
+        Mouse = 2,
+        Frog = 3,
+        Tiger = 4
     }
 }

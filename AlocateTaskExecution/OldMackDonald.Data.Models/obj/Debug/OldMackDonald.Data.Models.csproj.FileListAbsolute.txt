@@ -1,0 +1,5 @@
+E:\AllocateTaskNet\AlocateTaskExecution\OldMackDonald.Data.Models\bin\Debug\OldMackDonald.Data.Models.dll
+E:\AllocateTaskNet\AlocateTaskExecution\OldMackDonald.Data.Models\bin\Debug\OldMackDonald.Data.Models.pdb
+E:\AllocateTaskNet\AlocateTaskExecution\OldMackDonald.Data.Models\obj\Debug\OldMackDonald.Data.Models.csprojResolveAssemblyReference.cache
+E:\AllocateTaskNet\AlocateTaskExecution\OldMackDonald.Data.Models\obj\Debug\OldMackDonald.Data.Models.dll
+E:\AllocateTaskNet\AlocateTaskExecution\OldMackDonald.Data.Models\obj\Debug\OldMackDonald.Data.Models.pdb
